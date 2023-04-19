@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "kanbanfire-8821e"
+  },
+  "targets": {
+    "kanbanfire-8821e": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-8821e"
+        ]
+      }
+    }
+  }
+}
